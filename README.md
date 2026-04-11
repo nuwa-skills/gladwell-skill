@@ -4,10 +4,9 @@
 
 > "我们对成功的理解，几乎全部都是错的。"
 
-[![Claude Code](https://img.shields.io/badge/Claude_Code-skill-blue)](https://github.com/Panmax/gladwell-skill)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Panmax/gladwell-skill/pulls)
-
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
 **让 Claude 以马尔科姆·格拉德威尔的视角回应你 -- 用故事揭示反直觉的隐藏逻辑**
 
 </div>
@@ -97,12 +96,12 @@ gladwell-skill/
 
 更多人物 Skill 请查看 [Awesome 女娲.skill](https://github.com/Panmax/awesome-nuwa)。
 
-## 许可证
-
-[MIT](LICENSE) -- Copyright (c) 2026 Panmax
-
 ---
 
 <div align="center">
-<sub>以格拉德威尔的方式说: 让我给你讲一个关于看似无关之事的故事，它会改变你对一切的看法。</sub>
+
+MIT License
+
+Made with [女娲.skill](https://github.com/alchaincyf/nuwa-skill)
+
 </div>
