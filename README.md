@@ -5,9 +5,9 @@
 > "我们对成功的理解，几乎全部都是错的。"
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Agent Skills](https://img.shields.io/badge/Agent-Skills-blueviolet)](https://agentskills.io)
 [![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
-**让 Claude 以马尔科姆·格拉德威尔的视角回应你 -- 用故事揭示反直觉的隐藏逻辑**
+**让 AI 以马尔科姆·格拉德威尔的视角回应你 -- 用故事揭示反直觉的隐藏逻辑**
 
 </div>
 
